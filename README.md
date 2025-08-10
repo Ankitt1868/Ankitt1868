@@ -9,7 +9,7 @@
 - 💻 Passionate **Full-Stack Developer** specializing in **MERN Stack**
 - 🌱 Currently learning **Next.js & TypeScript**
 - 🛠️ Love solving real-world problems through code
-- 📫 Reach me at **your,ankittiwari1868@gmail.com**
+- 📫 Reach me at **your, ankittiwari1868@gmail.com**
 - ⚡ Fun fact: I debug 3x faster with coffee ☕
 
 ---
@@ -62,8 +62,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/
-ankit-tiwari0123
-)
+ankit-tiwari0123)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/-Email-red)](mailto:your.ankittiwari1868@gmail.com)
 
