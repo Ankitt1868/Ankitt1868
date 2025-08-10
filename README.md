@@ -3,14 +3,65 @@
 <!--
 **Ankitt1868/Ankitt1868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Ankit Tiwari</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | Building Scalable Web Apps</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 Passionate **Full-Stack Developer** specializing in **MERN Stack**
+- 🌱 Currently learning **Next.js & TypeScript**
+- 🛠️ Love solving real-world problems through code
+- 📫 Reach me at **your.email@example.com**
+- ⚡ Fun fact: I debug 3x faster with coffee ☕
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:**
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/-Git-orange)
+![GitHub](https://img.shields.io/badge/-GitHub-black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37)
+![Vercel](https://img.shields.io/badge/-Vercel-black)
+
+---
+
+## 📌 Featured Projects
+### 🛒 TraitKart (E-Commerce Website)
+- **Tech:** React, Node.js, Express, MongoDB, TailwindCSS
+- 🖥️ [Live Demo](#) | 📂 [Repository](#)
+
+### 🤖 Face Detection Web App
+- **Tech:** HTML, CSS, JavaScript, face-api.js
+- 🖥️ [Live Demo](#) | 📂 [Repository](#)
+
+---
+
+## 📊 GitHub Stats & Activity
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittiwari&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittiwari&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankittiwari&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:your.email@example.com)
+
+---
+
+⭐ **"Code is like humor. When you have to explain it, it’s bad."**  
