@@ -61,8 +61,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/
-ankit-tiwari0123)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/ankit-tiwari0123)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/-Email-red)](mailto:your.ankittiwari1868@gmail.com)
 
